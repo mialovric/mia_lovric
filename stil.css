@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* CSS Document */
+p {
+	color:mediumvioletred;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: antiquewhite;
+	padding: 20px;
+}
+.novi_blok {
+	background-color: rgba(255, 255, 255, 0.5);
+	padding: 20px;
+	margin: 20px;
+	width: 50;
+	
+}
+
+h2 {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	color:blueviolet;
+	}
+
+body {
+	background-image: url("slike/vjezba.jpeg");
+}
+drugapozadina {
+	background-color: cadetblue;
+}
+a {
+	color: black;
+	background-color: white;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #000000;
+}
